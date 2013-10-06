@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dss</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btnStack">STACK</string>
+    <string name="btnLink">LINK LIST</string>
+    <string name="btnTree">TREE</string>
+    <string name="btnfifoQueue">FIFO QUEUE</string>
+    <string name="title_activity_stack_dr">STACK</string>
+    <string name="title_activity_tree_dr">TREE</string>
+    <string name="title_activity_fifoqueue_dr">FIFO QUEUE</string>
+    <string name="title_activity_circularqueue_dr">CIRCULAR QUEUE</string>
+    <string name="title_activity_link_list_dr">LINKLIST</string>
+    <string name="btnPush">PUSH</string>
+    <string name="btnPop">POP     </string>
+    <string name="btnPeek">PEEK</string>
+    <string name="txtBlank">" "</string>
+    <string name="btnSize">SIZE</string>
+    <string name="btnClear">CLEAR</string>
+    <string name="btnDocs">DOCS</string>
+    <string name="btnAdd">ADD</string>
+    <string name="btnDelete">DELETE</string>
+    <string name="btnDisplay">DISPLAY</string>
+    <string name="btnReverse">REVERSE</string>
+    <string name="btnQAdd">ENQUEUE</string>
+    <string name="btnQdel">DEQUEUE</string>
+    <string name="btnCirQueue">C QUEUE</string>
+    <string name="btnCfifo">FIFO</string>
+    <string name="btncircularQueue">CIRCULAR QUEUE</string>
+    <string name="btnQueue">QUEUE</string>
+    <string name="btnC">Cqueue</string>
+    <string name="title_activity_main_page">DataStructure</string>
+    <string name="mainPage">Main page</string>
+
+</resources>
